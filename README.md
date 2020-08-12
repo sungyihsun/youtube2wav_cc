@@ -1,2 +1,2 @@
 # youtube2wav_cc
- download youtube wav and cc txt
+ Download youtube wav audio files and cc subtitles
